@@ -1,0 +1,6 @@
+# ignore text files
+*.txt
+
+.env
+
+node_modules
